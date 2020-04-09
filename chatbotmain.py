@@ -22,12 +22,12 @@ conversations= [
     ],
     [
         r"(.*) scholarship|scholarship|scholarship (.*)",
-        ["It depends on the marks obtained in LPUNEST or Jeemains score or board exams ","Scholarship can be availed through LPUNEST or board exam marks"]
+        ["It depends on the marks obtained in LPUNEST or Jeemains score or board exams ,Scholarship can be availed through LPUNEST or board exam marks"]
 
     ],
     [
         r"(.*) lpunest|lpunest (.*)|lpunest",
-        ["It is an entrance exam exam conducted by LPU","Every year LPU conducts an enrance exam called LPUNEST"]
+        ["It is an entrance exam exam conducted by LPU,Every year LPU conducts an enrance exam called LPUNEST"]
 
     ],
     [
@@ -47,12 +47,12 @@ conversations= [
     ],
     [
         r"(.*) paymentmode (.*)|paymentmode|paymentmode (.*)|(.*) paymentmode",
-        ["cheque,debit card,netbanking,credit card and cash are acceptable","we accept cheque,credit card, netbanking or cash"]
+        ["cheque,debit card,netbanking,credit card and cash are acceptable,we accept cheque,credit card, netbanking or cash"]
 
     ],
     [
         r"(.*) hostel (.*) available (.*)|hostel available |(.*) hostel available|hostel available|(.*) hostel available (.*)",
-        ["yes, hostel facility is available ","Students can avail the hostel facility within the campus"]
+        ["yes, hostel facility is available ,Students can avail the hostel facility within the campus"]
 
     ],
     [
@@ -67,7 +67,7 @@ conversations= [
     ],
     [
         r"(.*) placements (.*)|(.*) placements|placements (.*)|placements",
-        ["Here at LPU we provide 100 % placement assistance","Every year LPU students get placed at top MNC's"]
+        ["Here at LPU we provide 100 % placement assistance,Every year LPU students get placed at top MNC's"]
 
     ],
     [
